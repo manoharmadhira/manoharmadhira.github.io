@@ -99,7 +99,7 @@ See [Cobra Anchors - Fliptoggle](https://www.youtube.com/watch?v=W4x58ZIqa6Q) to
 See [Flip Toggle vs Toggle Bolt Video](https://www.youtube.com/watch?v=iYsDrY7L3G8) to compare between the Flip toggle and Toggle bolt fastener.
 
 ### Assemble the Saree and Ring
- See video on the right for a demo.
+ See video in the right panel for a demo.
 
 1. Unfold the saree and let it fall freely.  
 2. Hold the two ends of the width in each hand and slowly folds the ends into flat pleats towards the center. The flat pleats allow the saree to open fully at the bottom without twisting.  
@@ -121,7 +121,7 @@ The basic Jhoola is now ready. Spread the saree and pull down to ensure the knot
 ### Widen the Jhoola to increase airflow  
 To allow free air movement, insert a 1/4 in. x 2-1/2 in x 2 ft. poplar board approximately midway to spread the saree. To ensure the wood does not slide, it is safer to cut a slot and few holes to tie the wood to the saree. You may use any other material that won't bend when pulled down. I prefer wood since it is light and sturdy.  
 
-1. On each end drill two 11/32 in. holes about 0.6 in. from edge. These hole is just to tie a string to saree, so choose an appropriate size and location.  
+1. On each end drill two 11/32 in. holes about 0.6 in. from edge. These holes are for tying the wood to the saree, so choose an appropriate size and location.  
 2. At about 1-1/2 in. from each end drill a 1/2 in. hole in the center along width.  
 3. Cut a slot from the edge to the 1/2 in. hole using either a handsaw or a universal cutting tool.  
 4. File away any rough edges using a fine wood/metal file or 100 grit or finer sandpaper (optional).
