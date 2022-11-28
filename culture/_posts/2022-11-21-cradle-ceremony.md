@@ -25,7 +25,7 @@ In southern Indian tradition, children are placed in a Jhoola (Hindi), Uyyaala (
 
 For a baby, sleeping in a Jhoola in the first few weeks after birth has many advantages. The swing gives a womb-like experience, making the baby comfortable and at ease. The swinging sensations trigger a deep and instinctive relaxation, ensuring the baby gets a good sleep.  
 
-Jhoola does have some disadvantages and risks. Please research and follow all the necessary precautions before placing your child in a Jhoola. I summarize the precautions at the end of this article.
+Jhoola has some disadvantages and risks as well. I summarize the precautions to reduce these risks at the end of this article. Please research and follow all the necessary precautions before placing your child in a Jhoola. 
 
 
 ## Items Needed  
@@ -82,7 +82,7 @@ Follow the below steps if you want to repeat what I did. Read detailed instructi
 
 See [Cobra Anchors - Fliptoggle](https://www.youtube.com/watch?v=W4x58ZIqa6Q) to see the installation demo.
 
-**Alternative** If you can find a joist (Solid wood) in the ceiling at the appropriate location, use an [Eye Lag Screw](https://www.homedepot.com/p/Everbilt-1-4-in-x-3-3-4-in-L-Zinc-Plated-Lag-Thread-Screw-Eye-806916/204273856){:target="_blank"} with a pre-drilled hole. It is easier and sturdier than using a 5in. or larger drill bit. It is easy to find a stud on lower floors since those ceilings have studs running every 16” in both directions.  
+**Alternative** If you can find a joist (solid wood) in the ceiling at the appropriate location, use an [Eye Lag Screw](https://www.homedepot.com/p/Everbilt-1-4-in-x-3-3-4-in-L-Zinc-Plated-Lag-Thread-Screw-Eye-806916/204273856){:target="_blank"} with a pre-drilled hole. It is easier and sturdier than using a 5in. or larger drill bit. On lower floors solid wood or stud is easier to find, since those ceilings have studs running every 16” in both directions.  
 
 **Options considered but not recommended**  
 
@@ -144,13 +144,13 @@ I recommend the following minimum precautions to be observed when using the Jhoo
 
 1. USE a used cotton or silk saree. Both cotton and silk are breathable. Avoid silk sarees with [jari](https://en.wikipedia.org/wiki/Zari), especially those with brocades. Traditionally silk saree is used for Jhoola only for event celebration, like the 21st day ceremony. Daily use cradles are mostly cotton sarees.  
 
-2. Periodically test the Jhoola with a heavy object before placing the baby. ALWAYS test every time you tie a new know. Traditionally a [Rolu Potramu](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rolu_patramu.jpg/512px-Rolu_patramu.jpg){:target="_blank"} - or pestle from a wet grinder is used for this purpose.  
+2. Periodically test the Jhoola with a heavy object before placing the baby. ALWAYS test every time you tie a new knot. Traditionally a [Rolu Potramu](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rolu_patramu.jpg/512px-Rolu_patramu.jpg){:target="_blank"} - or pestle from a wet grinder is used for this purpose.  
 
-3. DO NOT leave the Jhoola unattended. Periodically check that the baby has not turned. In joint families or traditional Indian deliveries which occur at the mother's parents' house, this is not a concern, since many people would share watching over the baby.  
+3. DO NOT leave the Jhoola unattended. Periodically check that the baby has not turned. In joint families or traditional Indian deliveries which occur at the mother's parents' house, this is not a concern, since many people would watch over the baby.  
 
-4. DO NOT leave the baby sleep in Jhoola through the night. These were typically meant to be used during the day while mother takes on other chores.  
+4. DO NOT leave the baby sleeping in the Jhoola through the night. These are typically meant to be used during the day while mother takes on other chores.  
    
-5. DO NOT place any other items in the Jhoola - no blankets or pillows. The Jhoola would adjust to the baby's sleeping position.  
+5. DO NOT place any other item in the Jhoola - no blankets, pillows, or toys. The Jhoola would adjust to the baby's sleeping position.  
 
 
 
