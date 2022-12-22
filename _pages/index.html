@@ -8,7 +8,7 @@ title: Home
     <!-- ======= Hero Slider Section ======= -->
     {% assign featured = "" | split: "," %}
     {% if site.data.highlights.featured %}
-       featured = site.data.highlights.featured 
+       {% assign featured = site.data.highlights.featured %}
     {% else %}
        {% for cat in site.categories %}
           {% assign post = cat[1] | first %}

@@ -66,6 +66,9 @@ limits:
    latest: 5
    tag_match: 2
 
+unstatic:
+  comment_form: https://forms.un-static.com/forms/99925feaf303b5d5d0e5b02c41752535b210cba9
+
 # Conversion
 markdown: kramdown
 kramdown:

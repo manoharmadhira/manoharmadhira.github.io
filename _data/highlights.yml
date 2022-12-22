@@ -1,3 +1,8 @@
-# trending:
-#   - data-science/_posts/2022-10-06-amazing-ds-poems.md
-#   - technology/_posts/2022-10-04-amazing-technology-3-poems.md
+trending:
+  - business/_posts/2022-12-11-writing-clearly.md
+  - health/_posts/2022-08-06-yoga-101-basics-and-myths.md
+  - culture/_posts/2022-11-21-cradle-ceremony.md
+featured:
+  - business/_posts/2022-12-11-writing-clearly.md
+  - health/_posts/2022-08-06-yoga-101-basics-and-myths.md
+  - culture/_posts/2022-11-21-cradle-ceremony.md
