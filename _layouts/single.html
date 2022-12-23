@@ -13,10 +13,28 @@ layout: default
               <div class="post-meta"><span class="date">{{page.categories[0] | replace: '-',' '}}</span> 
                 <span class="mx-1">&bullet;</span> <span>{{page.date | date: "%b %d, '%y"}}</span></div>
               <h1 class="mb-5">{{page.title}}</h1>
-              {{content | markdownify}}
+              {% include social-share.html %}
+              <p><span class="firstcharacter">{{ page.excerpt | strip_html | slice: 0}}</span>
+                {{page.excerpt | strip_html | slice:1,2000 }}</p>
+              {% include post-lead.html %}
+              <!-- https://stackoverflow.com/questions/25527245/posting-everything-except-the-excerpt-in-jekyll -->
+              {{page.content | split: site.excerpt_separator | last | remove_first: '</p>' | markdownify }}
+              {% if page.related %}
+                {% assign rel_counter = 0 %}
+                {% for related in page.related %}
+                  {% assign rel_page = site.posts | where: "path", related | first %}
+                  {% if rel_page %}
+                    {% assign rel_counter = rel_counter | plus: 1 %}
+                    {% if rel_counter == 1 %}<h2>See also:</h2>{% endif %}
+                    <p class="mb-3"><a href="{{rel_page.url | prepend:site.baseurl}}">{{ rel_page.title }} -  
+                       <span class="author mb-3">{% include author.html author=rel_page.author display="name" %}</span>
+                    </a></p>
+                  {% endif %}
+                {% endfor %}
+              {% endif %}              
             </div><!-- End Single Post Content -->
 
-           {% comment %} {% include comments-form.html %} {% endcomment %}
+          {% include comments-form.html %}
 
           </div>
           <div class="col-md-3">

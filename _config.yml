@@ -56,6 +56,9 @@ social:
     #   class: instagram
     #   icon: bi bi-instagram
     #   url: https://www.instagram.com/donaldduckweekblad/
+  handles:
+    twitter: manoharmadhira
+    github: rmadhira86
 
       
 
@@ -78,9 +81,20 @@ lsi: false
 excerpt_separator: "<!--more-->"
 incremental: false
 
+# Table of Contents settings
+# https://heymichellemac.com/table-of-contents-jekyll
+toc:
+ min_level: 2
+ max_level: 3
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist
+
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Build config 
 sass:

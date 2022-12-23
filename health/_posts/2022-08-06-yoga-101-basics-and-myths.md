@@ -6,6 +6,8 @@ video_url: https://www.youtube.com/watch?v=WA9ncn8Eqts
 video_img: /assets/img/blog/yoga_title.jpg
 
 image: /assets/img/health3.jpg
+image_caption: "Photo by author, Location: Philmont"
+
 tags:
   - yoga
   - pranayama
@@ -14,12 +16,9 @@ tags:
   - yoga-myths
   - yoga-asanas
 ---
-Y
-{: .firstcharacter}
-oga has been around for a few thousand years and has many branches and disciplines. As a natural extension of this historical presence, Yoga has developed quite a mystical and suspenseful aura for a newcomer. In this post, I will bust some common myths, explore the benefits, and provide the general rules to follow before starting a Yoga practice.
+Yoga has been around for a few thousand years and has many branches and disciplines. As a natural extension of this historical presence, Yoga has developed quite a mystical and suspenseful aura for a newcomer. In this post, I will bust some common myths, explore the benefits, and provide the general rules to follow before starting a Yoga practice.
 
 <!--more-->
-{% include show-image.html src="/assets/img/health3.jpg" caption="Photo by author, Location: Philmont" %}
 
 ##### Myth #1 - You must be flexible to do Yoga.
 **Yoga** helps you become flexible. It does not require that you are flexible before you start. Everyone can start Yoga and progress at their pace. 

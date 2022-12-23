@@ -2,7 +2,10 @@
 layout: single
 title: "Make a traditional Jhoola for Southern Indian cradle ceremony"
 description: Instructions to setup a traditional cradle with a Saree for drywall ceilings
+
 image: /assets/img/blog/cradle_title.jpg
+image_caption: Photo by author, Edited using PowerPoint
+image_alt: Saree cradle
 
 video_url: https://www.youtube.com/watch?v=7AD-h-dbww4
 video_img: /assets/img/blog/cradle_title.jpg 
@@ -11,13 +14,9 @@ tags:
   - swing
   - saree-uses
 ---
-I
-{: .firstcharacter}
-n southern Indian tradition, children are placed in a Jhoola (Hindi), Uyyaala (Telugu), or Thottil (Tamil) when they are 21 to 29 days old. Learn how to create a traditional Jhoola or cradle in a top-floor building in the US costing less than fifteen dollars in less than 15 minutes. 
+In southern Indian tradition, children are placed in a Jhoola (Hindi), Uyyaala (Telugu), or Thottil (Tamil) when they are 21 to 29 days old. Learn how to create a traditional Jhoola or cradle in a top-floor building in the US costing less than fifteen dollars in less than 15 minutes. 
 
 <!--more-->
-{% include show-image.html src="/assets/img/blog/cradle.jpg" caption="Photo by author, Edited using PowerPoint" alt="Saree cradle" %}
-
 This Jhoola is tested with 40 lbs (18 kg) weight, which is twice the expected weight of the child in the Jhoola.  
 
 ## Background  

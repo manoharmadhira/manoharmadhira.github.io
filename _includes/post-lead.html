@@ -1,0 +1,10 @@
+{% assign post = include.post | default: page %}
+{% assign p_img = include.img_src | default: post.image %}
+{% assign p_img_caption = include.img_caption | default: post.image_caption | default: "" %}
+{% assign p_img_alt = include.alt | default: post.image_alt | default: post.title %}
+{% include show-image.html src=p_img caption=p_img_caption alt=p_img_alt fig_class="me-4 thumbnail" %}
+{% if page.toc %}
+    <div >
+        {% include toc.html sanitize=true html=post.content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+    </div>
+{% endif %}
