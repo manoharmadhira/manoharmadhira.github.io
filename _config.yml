@@ -70,7 +70,8 @@ limits:
    tag_match: 2
 
 unstatic:
-  comment_form: https://forms.un-static.com/forms/99925feaf303b5d5d0e5b02c41752535b210cba9
+  comment_form: https://forms.un-static.com/forms/19fa27b3865b25728cb967c172e8049cf2b17b50
+#  comment_form: https://forms.un-static.com/forms/99925feaf303b5d5d0e5b02c41752535b210cba9
 
 # Conversion
 markdown: kramdown
