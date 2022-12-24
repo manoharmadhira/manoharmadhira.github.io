@@ -3,6 +3,7 @@ layout: single
 title: "Framework for writing clearly"
 description: Lessons learnt in writing documents in business context
 image: /assets/img/blog/pyramid_title.jpg
+image_caption: "Stock Photo from Microsoft 365, edited with PowerPoint Designer"
 comment_prompt: Thank you for reading. Please send in your comments on the article. I would love to learn if you found it helpful. Is the article itself written clearly? What other techniques have you found beneficial?
 
 related:
@@ -13,11 +14,11 @@ tags:
   - communication
   - getting-buy-in
 ---
-Writing is an essential skill in business to communicate our ideas, get buy-in, and for bringing people together. I am sharing the lessons I have learnt over the years on how to write better.
+Writing is an essential skill in business to communicate our ideas, get buy-in, and bring people together. I am sharing the lessons I have learnt over the years on how to write better.
 <!--more-->
 As a Product Manager, I often write documents for different purposes like communicating our vision to our customers, communicating customer needs to the engineering teams, communicating status to our executives, or obtaining buy-in from stakeholders. Unfortunately, I do not enjoy writing. Writing is an arduous endeavor for me, and I often dread creating documents.
 
-Over the years, I have strived to learn how to write clearly by improving on writing more straightforward sentences and learning how to structure the document to drive clarity. In this blog, I cover the Why and How to build an easy to understand document structure using [The Pyramid Principle by Barbara Minto](https://www.amazon.com/Pyramid-Principle-Present-Thinking-Clearly-dp-0273659030/dp/0273659030/ref=dp_ob_title_bk) and include learning on the job from my successes and failures. I cover details in how to convert the structure to words in [Finer points for writing clearly]({% post_url business/2022-12-12-finer-points-of-writing-clearly %}). 
+Over the years, I have strived to learn how to write clearly by improving on writing more straightforward sentences and learning how to structure the document to drive clarity. In this blog, I cover the Why and How to build an easy to understand document structure using [The Pyramid Principle by Barbara Minto](https://www.amazon.com/Pyramid-Principle-Present-Thinking-Clearly-dp-0273659030/dp/0273659030/ref=dp_ob_title_bk) ,and include learning on the job from my successes and failures. I cover details in how to convert the structure to words in [Finer points for writing clearly]({% post_url business/2022-12-12-finer-points-of-writing-clearly %}). 
 
 ## What is clear writing? 
 Clear writing aims to get the writer's point across to the reader. Writing clearly can mean two things:  
@@ -26,7 +27,7 @@ Clear writing aims to get the writer's point across to the reader. Writing clear
 
 Writing simple, direct sentences or overlong, unwieldy sentences is a matter of style. Improving these needs a mastery of language and rigorous practice. I still struggle with these elements and end up writing long sentences, using passive voice, or using technical jargon. Thankfully, tools like [Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/microsoft-editor) and [Grammarly](https://www.grammarly.com), built with artificial intelligence, help to find and correct these style errors. 
 
-**Writing clearly is more about organizing ideas than writing words**. Document structure and the order of sentences is more important to drive clarity. These issues are far more pervasive but easier to correct. To get the point across to the reader, **it is best to structure the document the in a top-down pyramid giving the sequence of topics and establish their relation**. To explore why this structure works the best, let us delve into how the brain works. 
+**Writing clearly is more about organizing ideas than writing words**. Document structure and the order of sentences are the most important to drive clarity. These issues are far more pervasive but easier to correct. To get the point across to the reader, **it is best to structure the document in a top-down pyramid giving the sequence of topics and establishing their relation**. To explore why this structure works the best, let us delve into how the brain works. 
 
 The human brain is conditioned to establish relations, group information together, and hold limited information about each group. Unrelated statements can be hard to understand. As the sentences unfold, the mind tries to establish relationships with the previous statement. If it finds the relation, it stores the summary of the relationship. If the new sentence is not related, it creates a new category.  
 
@@ -40,7 +41,7 @@ Knowing the way the brain can unfold details and the limits on the amount of inf
 1. to group related information into groups of three to five and  
 2. to set up links between all the items.  
 
-This inevitably means you should use a top-down approach to present sequence of topics, establish the relation, and control the sequence in which you present your ideas. The reader will look for the structure connecting ideas as they come in. To ensure the reader finds the relation you intend, you must tell them in advance what it is.  
+This inevitably means you should use a top-down approach to present a sequence of topics, establish the relation, and control the sequence in which you present your ideas. The reader will look for the structure connecting ideas as they come in. To ensure the reader finds the relation you intend, you must tell them in advance what it is.  
 
 To write clearly, you must: 1) decide the points you want to make and 2) put them into words. That is, think first, write later. This process would also a) cut down the writing time, b) increase clarity, and c) decrease the length. In a group setting with multiple co-authors, aligning on the points you want to make before you put down the words reduces the time taken to arrive at an agreement and to create a coherent document.  
 
@@ -54,7 +55,7 @@ Success in "writing clearly" requires embracing both of these principles. In his
 
 We often feel uncomfortable accepting the second principle of telling the message as soon as possible. We feel compelled to use an alternate structure of walking the reader through the analytical process that led to the answer. This alternate structure has two flaws. First, the reader must wait until the end to get the main message. Many readers may run out of steam before reaching the end. Second, redundancy and repetition are inevitable in this structure. We will need to summarize findings frequently and return to the first areas to present conclusions. This starting, stopping, and starting forces repetition for the writer and places a cognitive load on the reader, causing impatience and inattentiveness.  
 
-The pyramid avoids both the issues with the alternate structure above. It reflects the distinction between the analysis process and communicating the results. **To analyze, we think up, working from raw material to the main message. To express, we write down, from the main message to the detail**. 
+The pyramid avoids both of the issues with the alternate structure above. It reflects the distinction between the analysis process and communicating the results. **To analyze, we think up, working from raw material to the main message. To express, we write down, from the main message to the detail**. 
 
 The Pyramid Principle is applicable in all fields. Consider the following phone conversation with my doctor's assistant a few weeks ago:
 > **Doctor's assistant:** *Manohar, you remember that we had to collect a second blood sample from you last week. Even though the first sample had shown everything was ok, we wanted to double check. Thank you for coming in again. We have now received the result from your second blood sample.*  
