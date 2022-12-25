@@ -42,13 +42,20 @@
       })(window, document, "clarity", "script", "esy1ng7ec1");
     </script>
 
-    <!-- Script for displaying social share windows -->
+    <!-- Script for social share -->
     <script type="text/javascript">
+      // Display social share window
       function showSocialShare(url){
           window.open(url,'Share Post','toolbar=1,status=0,left=20,right=20,width=500,height=500');
           return false;
       }
+      function copyText(textToCopy){
+        navigator.clipboard.writeText(textToCopy);
+        alert('Link copied to clipboard');
+        return false;
+      }
     </script>
+    
     {% seo %}
     <!-- =======================================================
     * Template Name: ZenBlog - v1.2.0 from bootstrapmade.com 

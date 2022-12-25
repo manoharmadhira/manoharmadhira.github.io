@@ -6,7 +6,14 @@ Share on:
     <a href="javascript:void(0)" class="twitter mx-1" title="Share on Twitter"
        onclick="javascript:showSocialShare('https://twitter.com/intent/tweet?{% if site.social.handles.twitter %}via={{ site.social.handles.twitter | url_encode }}&{% endif %}text={{p_title}}&url={{p_url}}')"
        ><i class="bi bi-twitter"></i></a>
-    <a href="javascript:void(0)" class="twitter mx-1" title="Share on LinkedIn" 
+    <a href="javascript:void(0)" class="linkedin mx-1" title="Share on LinkedIn" 
        onclick="javascript:showSocialShare('https://www.linkedin.com/sharing/share-offsite/?url={{p_url}}')"
     class="mx-1"><i class="bi bi-linkedin"></i></a>
+    <a href="javascript:void(0)" class="whatsapp mx-1" title="Share on WhatsApp" 
+       onclick="javascript:showSocialShare('https://api.whatsapp.com/send?text={{p_title}}%20{{p_url}}')"
+       class="mx-1"><i class="bi bi-whatsapp"></i></a>
+    <a href="javascript:void(0)" class="whatsapp mx-1" title="Copy link to clipboard" 
+       onclick="javascript:copyText('{{post.title}} {{post.url | absolute_url}}')"
+       class="mx-1"><i class="bi bi-link-45deg"></i></a>
+
 </div>
