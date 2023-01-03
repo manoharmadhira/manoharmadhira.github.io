@@ -18,12 +18,12 @@ Writing is an essential skill in business to communicate our ideas, get buy-in, 
 <!--more-->
 As a Product Manager, I often write documents for different purposes like communicating our vision to our customers, communicating customer needs to the engineering teams, communicating status to our executives, or obtaining buy-in from stakeholders. Unfortunately, I do not enjoy writing. Writing is an arduous endeavor for me, and I often dread creating documents.
 
-Over the years, I have strived to learn how to write clearly by improving on writing more straightforward sentences and learning how to structure the document to drive clarity. In this blog, I cover the Why and How to build an easy to understand document structure using [The Pyramid Principle by Barbara Minto](https://www.amazon.com/Pyramid-Principle-Present-Thinking-Clearly-dp-0273659030/dp/0273659030/ref=dp_ob_title_bk) ,and include learning on the job from my successes and failures. I cover details in how to convert the structure to words in [Finer points for writing clearly]({% post_url business/2022-12-12-finer-points-of-writing-clearly %}). 
+Over the years, I have strived to learn how to write clearly by improving on writing more straightforward sentences and learning how to structure the document to drive clarity. In this blog, I cover the Why and How to build an easy to understand document structure using [The Pyramid Principle by Barbara Minto](https://www.amazon.com/Pyramid-Principle-Present-Thinking-Clearly-dp-0273659030/dp/0273659030/ref=dp_ob_title_bk) and include learnings from successes and failures on the job. I cover details in how to convert the structure to words in [Finer points for writing clearly]({% post_url business/2022-12-12-finer-points-of-writing-clearly %}). 
 
 ## What is clear writing? 
 Clear writing aims to get the writer's point across to the reader. Writing clearly can mean two things:  
-- Writing simple and direct sentences.  
-- Structuring the document to drive clarity.  
+1. Writing simple and direct sentences.  
+2. Structuring the document to drive clarity.  
 
 Writing simple, direct sentences or overlong, unwieldy sentences is a matter of style. Improving these needs a mastery of language and rigorous practice. I still struggle with these elements and end up writing long sentences, using passive voice, or using technical jargon. Thankfully, tools like [Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/microsoft-editor) and [Grammarly](https://www.grammarly.com), built with artificial intelligence, help to find and correct these style errors. 
 
