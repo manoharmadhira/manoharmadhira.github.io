@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Five lessons from long distance biking to improve operations"
+title: "Five lessons from long distance biking that can improve operations"
 description: Application of Theory of Constraints lessons to long distance biking
 image: /assets/img/blog/bike_lessons_title.jpg
 image_caption: "Original photo by author"
