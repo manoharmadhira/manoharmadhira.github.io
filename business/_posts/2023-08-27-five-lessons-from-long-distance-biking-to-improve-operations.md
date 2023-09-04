@@ -2,8 +2,8 @@
 layout: single
 title: "Five lessons from long distance biking to improve operations"
 description: Application of Theory of Constraints lessons to long distance biking
-image: /assets/img/blog/pyramid_fine.jpg
-image_caption: "Stock Photo from Microsoft 365"
+image: /assets/img/blog/bike_lessons_title.jpg
+image_caption: "Original photo by author"
 comment_prompt: Thank you for reading. Please send in your comments on the article.
 
 related:
@@ -19,6 +19,8 @@ Theory of constraints principles came in handy to make the most of the 200 km bi
 <!--more-->
 The Netherlands is the biking capital of the world. While planning for the vacation, we read that the country [is flat as a pancake](https://aboutthenetherlands.com/is-the-netherlands-the-flattest-country-in-the-world/#:~:text=The%20lowest%20point%20of%20the%20Netherlands%2C%20Zuidplaspolder%2C%20is,a%20pancake%20with%20little%20blips%20here%20and%20there.), and the climate in August is [mild and reasonably dry](https://www.weather2visit.com/europe/netherlands/amsterdam-august.htm). For us bike lovers, this reads as a dream destination. So, in June, my wife and I made plans to ride 200 km in the first week of August with our son and nephew.  
 
+{% include show-image.html src="/assets/img/blog/bike_lessons_route.jpg" caption="Planned bike route" alt="Google maps image of the planned bike route" %}
+
 We are no strangers to biking. My wife, son, and I have completed 160 km per day trips, and our nephew has been riding everywhere for the past year. Coming from the Seattle area, we are accustomed to riding in the rain and riding on the hills. Riding in reasonably dry weather on a flat land sounded like music.  
 
 But as the days got closer, the weather forecast changed the chance of precipitation from 7% to 56%. On the actual ride, we had to factor in 30-50 km/hr headwinds and multiple flat tires (punctures). Initially, the trip felt less than the ideal we dreamed of.  
@@ -30,6 +32,8 @@ While planning our stay in Haarlem, we decided on the most critical sites to vis
 
 We started our bike ride from Amsterdam on the first day at 1:00 p.m. Amsterdam to Haalem was the shortest of our rides, only 26 km. We estimated a leisurely two-hour ride after discounting our biking speeds to account for the load and stops. After picking up our rental bikes, we rode 2 km to Amsterdam Centraal and saw the amazing under canal bike parking garage. The Netherlands is genuinely the biking capital of the world. 
 
+{% include show-image.html src="/assets/img/blog/bike_lessons_garage.jpg" caption="Under canal biking garage at Amsterdam Centraal" alt="Image of bike stored in two-tier bike garage" %}
+
 Amsterdam was preparing for the pride festival. With the large crowd, there was extra debris on the road. We carefully weaved our way through. However, a piece of glass found its way into our bike tire, a heavy downpour started, and our hearts sank. We had barely covered 2 km, had a flat tire, and felt wet. Since we were so close, we returned to the rental location to fix the flat tire. Finally, we started our journey back at 2:30 p.m. A one-and-a-half-hour delay in a two-hour ride, yikes!
 
 On the second trial, the first hour was uneventful. We enjoyed a breeze from the moderate wind and saw our first windmill. The mild weather changed to torrential rain and a 20 km/hr headwind for 30 minutes. Our pace dropped by 50%. We hit the trifecta with another flat tire and finally had to walk our bikes. We reached our destination at 6:30 p.m. instead of the planned 3:00 p.m.  
@@ -38,6 +42,7 @@ Once we reached Haarlem, our rough planning paid off. We adjusted the activity o
 
 ## ... So are Capacity buffers  
 As mentioned, we got a flat tire about 5 km before reaching Haarlem. The "flat as a pancake land" did not help. We could see grass all around us no trees to shelter under. The bike shops in the vicinity had closed at 5:00 p.m. The torrential rain made it difficult to find the puncture spot. Running out of options, we decided to split. My wife and I transferred all the luggage onto our bikes. The boys were to walk their bikes without having to lug the luggage. They made the best of the time enjoying the picture perfect rural landscape.
+
 
 What has all this got to do with capacity buffers? General wisdom says we are most efficient when people or machines work at or near capacity. In fact percentage utilization is still a key metric in many factories in measuring operations. 
 
@@ -65,6 +70,8 @@ The formation was based on the following rationale and assumption:
 Of course, in this case, we could not elevate the constraint. We made good progress on the first day and some part of the second day with this formation. 
 
 About 25% of the way between Haarlem and The Hague, we again faced torrential rain, 50 km/hr headwind, and some "hills". I say "hills" in quotes, because Seattlelites will laugh at 600 ft elevation gain over 30 km to be called hills. However, with the trifecta, the elevation gain, the headwind and the rain, these hills felt like mountains. 
+
+{% include show-image.html src="/assets/img/blog/bike_lessons_facingthewind.jpg" caption="Fighting the wind" alt="Image of author fighting the wind" %}
 
 The more I tried to fight the trifecta, the more I fell further behind. The distance between my wife and me kept on increasing. I failed to acknowledge and accept that I was now the constraint. As we do in every insane decision, I justified why I was riding the leisure bike loaded with heavy items and not given to my son who clearly has highest capacity buffer. I had erred while reserving three hybrid bikes, so I was responsible for getting the leisure bike instead of a hybrid<sup>[1](#notes)</sup>.  I also had a lot more capacity than my wife. So, indeed, I could carry the extra load. Due to my ego and faulty assumptions, we lost valuable time. 
 
